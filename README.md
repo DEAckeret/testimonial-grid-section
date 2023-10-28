@@ -28,8 +28,8 @@ Creating a responsive layout for all screen sizes with CSS grid.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7/hub?share=true)
+- Live Site URL: [](https://deackeret.github.io/testimonial-grid-section/)
 
 ## My process
 
@@ -44,11 +44,11 @@ I took on this project to learn CSS grid. Kevin Powell, a Youtuber, has a really
 
 ### What I learned
 
-[code snippet 1](./code-snippet-1.PNG)
+![code snippet 1](./code-snippet-1.PNG)
 
 This snippet shows the creation of my grid template area and then the assignments within that area with the testimonial-card children. I really like the control this gave me and with my dev tools, how easy it was to visualize the grid. I also need to make sure I remember grid-auto-columns so I can have things spaced neatly. 
 
-[code snippet 2](./code-snippet-2.PNG)
+![code snippet 2](./code-snippet-2.PNG)
 
 This snippet goes back to what I was talking about with the specificity score. I didn't want to have to add any more classes, esspecially for only one style change. I used what I learned and was able to target the elements because of their unique background styles via their utility classes. 
 
